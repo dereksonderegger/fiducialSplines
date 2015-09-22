@@ -2,6 +2,7 @@
 
 S3method(confint,fiducialSpline)
 S3method(plot,fiducialSpline)
+export(E.spline)
 export(acceptance.rate)
 export(as.mcmc.fiducialSpline)
 export(as.mcmc.fiducialSpline.knownNumberKnots)

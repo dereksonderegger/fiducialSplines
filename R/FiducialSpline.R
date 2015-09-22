@@ -1,6 +1,7 @@
 #' Predict the value of the function at the given x-values
 #' @param x Vector of x-values
 #' @param spline An object produced by fiducialSpline
+#' @export
 E.spline <- function(x, spline){
   degree <- length(spline$alpha) - length(spline$knots) - 1
   X <- tp(x, knots=spline$knots, degree=degree)
