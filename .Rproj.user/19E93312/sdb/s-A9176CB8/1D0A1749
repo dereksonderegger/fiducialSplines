@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: fiducialSplines\nTitle: Fiducial inference for free-knot B-splines in 1 Dimension\nVersion: 0.1\nAuthors@R: \"Derek Sonderegger <derek.sonderegger@nau.edu> [aut, cre]\"\nDescription: Produces the fiducial inference solution to the free-knot spline problem.\nDepends: R (>= 3.1.0), \nLicense: GPL 3\n",
+    "created" : 1442896081837.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1654875432",
+    "id" : "1D0A1749",
+    "lastKnownWriteTime" : 1442898067,
+    "path" : "~/GitHub/fiducialSplines/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "dcf"
+}

@@ -1,0 +1,7 @@
+Package: fiducialSplines
+Title: Fiducial inference for free-knot B-splines in 1 Dimension
+Version: 0.1
+Authors@R: "Derek Sonderegger <derek.sonderegger@nau.edu> [aut, cre]"
+Description: Produces the fiducial inference solution to the free-knot spline problem.
+Depends: R (>= 3.1.0), 
+License: GPL 3

@@ -1,0 +1,18 @@
+{
+    "contents" : "require(SemiPar)\ndata(lidar)\nx <- lidar$range\ny <- lidar$logratio\nplot(x, y)\n\nfoo <- fiducial.spline(x, y, 3, 2)\nplot(foo)\nconfint(foo)\n\n",
+    "created" : 1442897624992.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1184040789",
+    "id" : "25CFF956",
+    "lastKnownWriteTime" : 4350593536,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
